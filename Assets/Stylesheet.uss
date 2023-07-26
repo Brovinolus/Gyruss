@@ -1,0 +1,35 @@
+.MovementButton {
+    width: 100px;
+    height: 100px;
+    font-size: 0;
+    color: rgb(255, 255, 255);
+    background-image: none;
+    flex-direction: column;
+    background-color: rgba(255, 255, 255, 0.04);
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    left: auto;
+    align-items: stretch;
+    right: 40%;
+}
+
+.ShootButton {
+    width: 150px;
+    height: 150px;
+    font-size: 0;
+    background-color: rgba(255, 255, 255, 0.04);
+    -unity-text-outline-color: rgb(0, 0, 0);
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    right: -40%;
+    left: auto;
+    align-items: stretch;
+    justify-content: flex-start;
+    flex-direction: column;
+    flex-basis: auto;
+    margin-left: 0;
+}

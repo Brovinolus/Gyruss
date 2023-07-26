@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Stylesheet.uss?fileID=7433441132597879392&amp;guid=448e7b27172a5c5418072274d58dee05&amp;type=3#Stylesheet" />
+    <ui:VisualElement name="VisualElement" style="flex-grow: 1; justify-content: flex-start; flex-basis: auto; align-items: stretch;">
+        <ui:Label text="Label" display-tooltip-when-elided="true" name="Score" style="font-size: 50px; -unity-text-align: middle-left; flex-direction: column; align-items: stretch; margin-left: 100px; margin-top: 20px; margin-bottom: 20px; color: rgb(239, 253, 92); -unity-text-outline-width: 1px; -unity-font-style: bold; -unity-font: resource(&apos;FlatSkin/Font/Roboto-Bold&apos;);" />
+    </ui:VisualElement>
+</ui:UXML>
